@@ -1,2 +1,3 @@
 # Redacted-Public-Release-VRESSAI-v5.1601-Feb-2016
 Repository containing the CIF submission for Veteran Re-Entry Search Service Automated Interface v5.1601 rec Feb 2016.
+The Veteran Re-entry Search Service (VRSS) project will identify Veterans who are incarcerated in correctional facilities nationwide as well as Veterans who have been charged or convicted in state or federal courts. The VRSS includes a secure web portal to be used by the federal, state, and local correctional institutional staff and judicial workforce to upload their registry listings at regularly scheduled intervals.
